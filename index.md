@@ -7,8 +7,10 @@ We could certainly learn a lot: they're so friendly there. Some guy I had only k
 ## New place!
 Just moved in to my new house! Let me show you!
 
-![house](#)
+![house](house.jpg)
 
 Got some new keys cut as well!
 
 ![key](https://www.locksmiths.co.uk/wp-content/uploads/2019/01/a-small-Yale-type-key-e1548255982769-300x196.jpg.webp)
+
+<!-- cybersoc{r33d_7hE_c0Mm3nT5} -->
