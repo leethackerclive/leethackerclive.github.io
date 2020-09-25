@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Clive's hacking blog
 description: 1337 haxx0rs only!
+github:
+  is_project_page: false
